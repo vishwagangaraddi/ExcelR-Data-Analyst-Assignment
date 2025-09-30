@@ -1,10 +1,10 @@
 # ExcelR-Data-Analyst-Assignment
 
-## Excel Assignment
+- **1.Excel**
 
-## MySQL
+- **2.MySQL**
 
-## Power BI
+- **3.Power BI**
 
-## Tableau
+- **4.Tableau**
 
